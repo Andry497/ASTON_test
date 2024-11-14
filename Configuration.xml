@@ -32,8 +32,13 @@
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>Конфигурация</Name>
-			<Synonym/>
+			<Name>TectASTON</Name>
+			<Synonym>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Tect ASTON</v8:content>
+				</v8:item>
+			</Synonym>
 			<Comment/>
 			<NamePrefix/>
 			<ConfigurationExtensionCompatibilityMode>Version8_3_25</ConfigurationExtensionCompatibilityMode>
@@ -245,6 +250,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>РасчетыСервер</CommonModule>
 			<DefinedType>Количество</DefinedType>
 			<DefinedType>Деньги</DefinedType>
 			<Catalog>Номенклатура</Catalog>

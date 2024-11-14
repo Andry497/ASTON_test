@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.18">
-	<InformationRegister uuid="c52af1a2-35be-4292-9ee5-54fe4636a470">
+	<InformationRegister uuid="2c1e1eff-77e0-4a10-b44a-bd6ba33c03c7">
 		<InternalInfo>
 			<xr:GeneratedType name="InformationRegisterRecord.ЦеныРеализации" category="Record">
-				<xr:TypeId>9f152e5f-b2d7-4e3f-965f-e5f97360d03e</xr:TypeId>
-				<xr:ValueId>d7103066-22a1-48f1-86e0-f948b6dc79f2</xr:ValueId>
+				<xr:TypeId>210aa2f6-221e-4360-96b1-c7cf5dad69d1</xr:TypeId>
+				<xr:ValueId>f2ec32df-256f-4fca-9cb0-992f2d4dbf66</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterManager.ЦеныРеализации" category="Manager">
-				<xr:TypeId>4a370173-cd7d-43e5-bd4e-53d13f567410</xr:TypeId>
-				<xr:ValueId>2d10affe-c518-4dd9-875b-59c695f127d1</xr:ValueId>
+				<xr:TypeId>e75a9d33-8716-4c6a-904a-06cfbaef9f37</xr:TypeId>
+				<xr:ValueId>3d681a08-9022-4765-9df2-b9be1aa34aa7</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterSelection.ЦеныРеализации" category="Selection">
-				<xr:TypeId>dd59c1dc-42ee-4d06-9f80-27bd7c9671f9</xr:TypeId>
-				<xr:ValueId>baf7a4fe-e995-4f85-8cc6-5217ba8a59c7</xr:ValueId>
+				<xr:TypeId>83a6bf7e-d2e4-4554-8062-fd75a3f3e307</xr:TypeId>
+				<xr:ValueId>dea75d7d-3971-4f79-9854-6b764a41f663</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterList.ЦеныРеализации" category="List">
-				<xr:TypeId>57d1fe40-81ac-47bd-86a6-ed5f0f4f99c2</xr:TypeId>
-				<xr:ValueId>b54522f9-248c-4724-95fe-85e994f68cc9</xr:ValueId>
+				<xr:TypeId>b1841054-5b42-4f34-81d9-258583f9e4c3</xr:TypeId>
+				<xr:ValueId>04a38f1e-83b6-4cb2-86d4-5db159d0dce1</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordSet.ЦеныРеализации" category="RecordSet">
-				<xr:TypeId>f21f0e1c-dcf0-4f40-a278-43697c52aea3</xr:TypeId>
-				<xr:ValueId>e776c88d-234a-4616-b7b6-1c09cdb38823</xr:ValueId>
+				<xr:TypeId>d3809881-dacc-46d1-8722-6ad4ba6783f1</xr:TypeId>
+				<xr:ValueId>7a9b7115-706e-40d8-92b0-9c0311d1ac4e</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordKey.ЦеныРеализации" category="RecordKey">
-				<xr:TypeId>b764b2d8-131c-49a9-9337-bd9ae94ffc05</xr:TypeId>
-				<xr:ValueId>243a9132-fb87-461b-9f6c-64d29c92f014</xr:ValueId>
+				<xr:TypeId>641ef221-581d-4c1a-82c9-03fd0f674ec7</xr:TypeId>
+				<xr:ValueId>f7cc80bf-cb2e-42b8-a60a-d1b2121ec605</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="InformationRegisterRecordManager.ЦеныРеализации" category="RecordManager">
-				<xr:TypeId>f630dcd8-53bd-4ea0-a239-b8a1ce77a5e9</xr:TypeId>
-				<xr:ValueId>a9538e69-78af-4370-b129-b47a608632b3</xr:ValueId>
+				<xr:TypeId>5ba2da5a-fa0c-4d3c-99e0-9fdc3223481b</xr:TypeId>
+				<xr:ValueId>99267637-1fda-4d93-9cee-4b9d551fd30f</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -46,7 +46,117 @@
 			<DefaultListForm/>
 			<AuxiliaryRecordForm/>
 			<AuxiliaryListForm/>
-			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<StandardAttributes>
+				<xr:StandardAttribute name="Active">
+					<xr:LinkByType/>
+					<xr:FillChecking>DontCheck</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:TypeReductionMode>TransformValues</xr:TypeReductionMode>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+				<xr:StandardAttribute name="LineNumber">
+					<xr:LinkByType/>
+					<xr:FillChecking>DontCheck</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:TypeReductionMode>TransformValues</xr:TypeReductionMode>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+				<xr:StandardAttribute name="Recorder">
+					<xr:LinkByType/>
+					<xr:FillChecking>DontCheck</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:TypeReductionMode>TransformValues</xr:TypeReductionMode>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+				<xr:StandardAttribute name="Period">
+					<xr:LinkByType/>
+					<xr:FillChecking>ShowError</xr:FillChecking>
+					<xr:MultiLine>false</xr:MultiLine>
+					<xr:FillFromFillingValue>false</xr:FillFromFillingValue>
+					<xr:CreateOnInput>Auto</xr:CreateOnInput>
+					<xr:TypeReductionMode>TransformValues</xr:TypeReductionMode>
+					<xr:MaxValue xsi:nil="true"/>
+					<xr:ToolTip/>
+					<xr:ExtendedEdit>false</xr:ExtendedEdit>
+					<xr:Format/>
+					<xr:ChoiceForm/>
+					<xr:QuickChoice>Auto</xr:QuickChoice>
+					<xr:ChoiceHistoryOnInput>Auto</xr:ChoiceHistoryOnInput>
+					<xr:EditFormat/>
+					<xr:PasswordMode>false</xr:PasswordMode>
+					<xr:DataHistory>Use</xr:DataHistory>
+					<xr:MarkNegatives>false</xr:MarkNegatives>
+					<xr:MinValue xsi:nil="true"/>
+					<xr:Synonym/>
+					<xr:Comment/>
+					<xr:FullTextSearch>Use</xr:FullTextSearch>
+					<xr:ChoiceParameterLinks/>
+					<xr:FillValue xsi:nil="true"/>
+					<xr:Mask/>
+					<xr:ChoiceParameters/>
+				</xr:StandardAttribute>
+			</StandardAttributes>
+			<InformationRegisterPeriodicity>Day</InformationRegisterPeriodicity>
 			<WriteMode>RecorderSubordinate</WriteMode>
 			<MainFilterOnPeriod>false</MainFilterOnPeriod>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
@@ -64,7 +174,7 @@
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
 		<ChildObjects>
-			<Resource uuid="1d5636ed-8802-4b20-9f21-7ac024e86439">
+			<Resource uuid="63e09ca4-0036-45b0-9a74-7e4774d68fac">
 				<Properties>
 					<Name>Цена</Name>
 					<Synonym>
@@ -103,7 +213,7 @@
 					<DataHistory>Use</DataHistory>
 				</Properties>
 			</Resource>
-			<Dimension uuid="52e884b4-db15-4d42-83ef-27beac1082e6">
+			<Dimension uuid="96771a3b-e280-4a47-9e75-4599b88402ee">
 				<Properties>
 					<Name>Номенклатура</Name>
 					<Synonym>
