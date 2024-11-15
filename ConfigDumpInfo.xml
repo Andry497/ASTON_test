@@ -13,8 +13,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента" id="8c50272e-b167-4483-b21e-96aa690996c3" configVersion="70b0f8f694e18240aa7f1ddecb5271cd00000000"/>
 		<Metadata name="Catalog.Склады.Form.ФормаЭлемента.Form" id="8c50272e-b167-4483-b21e-96aa690996c3.0" configVersion="c5995c64224536459e564b4fd2bda8ed00000000"/>
-		<Metadata name="CommonModule.РасчетыСервер" id="90b91857-728b-4ff3-9ad3-1915bcd80f3b" configVersion="31a58ccd39f00143b8c77feac4ce222500000000"/>
-		<Metadata name="CommonModule.РасчетыСервер.Module" id="90b91857-728b-4ff3-9ad3-1915bcd80f3b.0" configVersion="821e6fc0dc1eed418df84ecd8aab079f00000000"/>
+		<Metadata name="CommonModule.РасчетыСервер" id="90b91857-728b-4ff3-9ad3-1915bcd80f3b" configVersion="5f47bd1b9cbf0f40a81d9f70177fa49e00000000"/>
+		<Metadata name="CommonModule.РасчетыСервер.Module" id="90b91857-728b-4ff3-9ad3-1915bcd80f3b.0" configVersion="de3ec6c823866848a2e74ef294accfd000000000"/>
 		<Metadata name="Configuration.TectASTON" id="21fd7afb-0277-4f7c-a4e7-d2032715b8b7" configVersion="832de1f47079b644b60b68625d54c22e00000000"/>
 		<Metadata name="DefinedType.Деньги" id="6f707d46-dee0-411a-bc8f-b9557560a0ce" configVersion="56e9b8ed126fed4fa3d480e600a118b400000000"/>
 		<Metadata name="DefinedType.Количество" id="3e5d113e-d8ff-48df-a682-597d41d221cb" configVersion="7846dc98f30bc346814cc7f6e97e496600000000"/>
