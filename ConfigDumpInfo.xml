@@ -40,8 +40,8 @@
 			<Metadata name="Document.РасходнаяНакладная.Attribute.Склад" id="b97da1be-be41-4329-b52e-a62f6d0d8e05"/>
 			<Metadata name="Document.РасходнаяНакладная.TabularSection.Товары.Attribute.Стоимость" id="f2728e34-9e95-4bf1-8a34-1fcb3235aa4d"/>
 		</Metadata>
-		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="eb9dac78-213d-43fb-a511-df893d4446ec" configVersion="7697874247658e4da681277febe6953900000000"/>
-		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="eb9dac78-213d-43fb-a511-df893d4446ec.0" configVersion="19a3f17024852442a3038a8033f0b3ee00000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента" id="eb9dac78-213d-43fb-a511-df893d4446ec" configVersion="182b20f8ef015e45b862ef5a4665814700000000"/>
+		<Metadata name="Document.РасходнаяНакладная.Form.ФормаДокумента.Form" id="eb9dac78-213d-43fb-a511-df893d4446ec.0" configVersion="ee998c842c69ca46a0e6306b1000a15c00000000"/>
 		<Metadata name="Document.РасходнаяНакладная.ObjectModule" id="6fdf1f65-78b5-4081-827e-9d33dac71676.0" configVersion="45faeadbc78b70428b0a2a10313e4df600000000"/>
 		<Metadata name="InformationRegister.ЦеныРеализации" id="2c1e1eff-77e0-4a10-b44a-bd6ba33c03c7" configVersion="5620689ada5b024aaf07ca48b30c45fa00000000">
 			<Metadata name="InformationRegister.ЦеныРеализации.Resource.Цена" id="63e09ca4-0036-45b0-9a74-7e4774d68fac"/>
